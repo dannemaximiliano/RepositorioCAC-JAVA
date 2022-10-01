@@ -1,0 +1,28 @@
+.backcac{
+    background-image: url(./img/ba1.jpg);
+    background-size: cover;
+}
+.Margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Margin2{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.textoMenor{
+    font-size: 16px;
+}   
+.navColor{
+    background-color: rgb(52, 57, 64);
+}
+.navFooter{
+    background-color:rgb(28, 68, 91);
+}
+@media (max-width: 600px){
+    .customMargin2{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+    
